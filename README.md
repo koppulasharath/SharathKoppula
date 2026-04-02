@@ -2,7 +2,7 @@
 
 # Hi, I'm Sharath 👋
 
-🚀 Aspiring DevOps Engineer  
+🚀 Entry-Level Cloud & DevOps Engineer  
 ☁️ AWS | Docker | Terraform | Jenkins | Linux  
 
 ## 🔧 Projects
