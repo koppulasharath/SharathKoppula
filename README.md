@@ -3,7 +3,7 @@
 # Hi, I'm Sharath 👋                                               
 
 
-🚀 Entry-Level Cloud & DevOps Engineer                            ![git readme](https://github.com/user-attachments/assets/ecd2583a-d34f-487d-8ed2-be04b278923a)
+🚀 Entry-Level Cloud & DevOps Engineer             ![git readme](https://github.com/user-attachments/assets/ecd2583a-d34f-487d-8ed2-be04b278923a)
 
 ☁️ AWS | Docker | Terraform | Jenkins | Linux  
 
