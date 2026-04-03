@@ -1,18 +1,36 @@
-# SharathKoppula
+<h1 align="center">Hi 👋, I'm Sharath</h1>
+<h3 align="center">Entry-Level Cloud & DevOps Engineer</h3>
 
-# Hi, I'm Sharath 👋                       
+---
 
-                      
+## 🚀 About Me
+- 🌱 Learning: AWS, DevOps, Linux
+- 💻 Interested in Cloud & Automation
+- 🎯 Goal: Become a DevOps Engineer
 
+---
 
-🚀 Entry-Level Cloud & DevOps Engineer            
-☁️ AWS | Docker | Terraform | Jenkins | Linux  
+## 🛠️ Skills
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,jenkins,terraform,git" />
+</p>
 
-## 🔧 Projects
-- DevOps CI/CD Pipeline (Jenkins + Docker + AWS)
-- Terraform Infrastructure Automation
-- Monitoring using Prometheus & Grafana
+---
 
-## 📫 Contact
-- Email: koppulasharath@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/sharath-koppula-ba444235a/)
+## 📂 Projects
+- 🔹 DevOps CI/CD Pipeline (Jenkins + Docker + AWS)
+- 🔹 Terraform Infrastructure Automation
+- 🔹 Monitoring with Prometheus & Grafana
+
+---
+
+## 📫 Connect with me
+- 📧 Email: koppulasharath@gmail
+- 💼 LinkedIn: https://www.linkedin.com/in/sharath-koppula-/
+
+---
+
+## 📊 GitHub Stats
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=koppulasharath&show_icons=true&theme=dark" />
+</p>
