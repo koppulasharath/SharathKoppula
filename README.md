@@ -1,6 +1,7 @@
 # SharathKoppula
 
-# Hi, I'm Sharath 👋                         ![Uploading git readme.gif…]()
+# Hi, I'm Sharath 👋                         ![git readme](https://github.com/user-attachments/assets/93de532c-cb95-44da-85f6-fc749bb3aeb0)
+
                       
 
 
